@@ -9,6 +9,7 @@ Connect with me🧑🏼‍💻
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
+
 ---
 <!--
 **joyal007/joyal007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
