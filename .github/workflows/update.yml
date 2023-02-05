@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Profile ReadMe - GitHub Activity
         uses: 4lch4/github-activity-readme@v0.3.7
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
