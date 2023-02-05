@@ -2,7 +2,7 @@
 
 I'm Joyal.
 
-Connect with me🧑🏼‍💻 </br></br>
+Connect with me🧑🏼‍💻 </br>
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/joyalDev) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/joyal-raphel-588760191/)
 
 ## :zap: Recent Activity
