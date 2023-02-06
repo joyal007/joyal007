@@ -8,9 +8,15 @@ Connect with me🧑🏼‍💻
 ---
 
 ## :zap: Recent Activity
-<!--START_SECTION:activity-->
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
 
 ---
+
+<p align="center">
+  Last refresh: 
+  <b><!--TIMESTAMP--></b>
+</p>
+
 <!--
 **joyal007/joyal007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
