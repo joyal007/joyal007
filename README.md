@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-222-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-173%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -28,5 +28,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2023 06:56:05 UTC
+ Last Updated on 07/02/2023 07:02:55 UTC
 <!--END_SECTION:waka-->
