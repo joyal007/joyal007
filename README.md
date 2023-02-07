@@ -7,11 +7,13 @@ Connect with me🧑🏼‍💻
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-222-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-173%20Thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-300-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-173%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 44 Contributions in the Year 2023
+> 🏆 47 Contributions in the Year 2023
  > 
 > 📦 60.9 kB Used in GitHub's Storage 
  > 
@@ -34,5 +36,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2023 07:02:55 UTC
+ Last Updated on 07/02/2023 18:44:45 UTC
 <!--END_SECTION:waka-->
