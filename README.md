@@ -27,10 +27,6 @@ HTML                     2 repos             ██░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/joyal007/joyal007/main/charts/bar_graph.png) 
-
-
- Last Updated on 07/02/2023 06:45:34 UTC
+ Last Updated on 07/02/2023 06:56:05 UTC
 <!--END_SECTION:waka-->
