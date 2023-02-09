@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi, I am Joyal! Great to see you here! 👨‍💻
 
 Connect with me🧑🏼‍💻
 
-[<img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social"  width="72px" height="30px">](https://twitter.com/joyalDev) [<img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"  width="72px" height="30px">](https://www.linkedin.com/in/joyal-raphel-588760191/)
+[<img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social"  width="72px" height="28px">](https://twitter.com/joyalDev) [<img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"  width="72px" height="28px">](https://www.linkedin.com/in/joyal-raphel-588760191/)
 
 
 
