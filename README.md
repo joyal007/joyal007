@@ -7,13 +7,13 @@ Connect with me🧑🏼‍💻
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-311-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-308-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 58 Contributions in the Year 2023
  > 
-> 📦 72.3 kB Used in GitHub's Storage 
+> 📦 72.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,5 +74,5 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2023 18:42:38 UTC
+ Last Updated on 18/02/2023 18:40:04 UTC
 <!--END_SECTION:waka-->
