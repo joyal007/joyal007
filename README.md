@@ -7,7 +7,7 @@ Connect with me🧑🏼‍💻
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-308-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-148-blue)
 
 **🐱 My GitHub Data** 
 
@@ -74,5 +74,5 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2023 18:40:04 UTC
+ Last Updated on 19/02/2023 18:40:06 UTC
 <!--END_SECTION:waka-->
