@@ -1,4 +1,4 @@
-<img src="https://github.com/joyal007/joyal007/assets/60638195/14df9bfc-e6a3-410b-a322-7999ac456fa2" width="1000" height="250"/>
+<img src="https://github.com/joyal007/joyal007/assets/60638195/a454e376-4ec3-43b5-9e0b-f1f4d825d872" height="300" width="3500"/>
 <h1 align="center">Hi 👋, I'm Joyal Raphel</h1>
 <!-- <h3 align="center">A passionate developer from India</h3> -->
 
