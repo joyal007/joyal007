@@ -1,6 +1,8 @@
 <img src="https://github.com/joyal007/joyal007/assets/60638195/a454e376-4ec3-43b5-9e0b-f1f4d825d872" height="300" width="3500"/>
 <h1 align="center">Hi 👋, I'm Joyal Raphel</h1>
 <!-- <h3 align="center">A passionate developer from India</h3> -->
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyal007&label=Profile%20views&color=0e75b6&style=flat" alt="joyal007" /> </p>
 <!--
@@ -39,11 +41,6 @@
  </a> 
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-
- 
- 
-  
-
 
  </p>
 
