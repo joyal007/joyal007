@@ -1,75 +1,57 @@
-### Hi, I am Joyal! Great to see you here! 👨‍💻
+<h1 align="center">Hi 👋, I'm Joyal Raphel</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-Connect with me🧑🏼‍💻
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joyal007&label=Profile%20views&color=0e75b6&style=flat" alt="joyal007" /> </p>
+<!--
+- 👨‍💻 All of my projects are available at [https://www.joyaldev.me](https://www.joyaldev.me)
+- 📝 I regularly write articles on [https://www.hashnode.joyaldev.me](https://www.hashnode.joyaldev.me)
+ - 📫 How to reach me **joyalraphel00@gmail.com**
+-->
 
-[<img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social"  width="72px" height="28px">](https://twitter.com/joyalDev) [<img src="https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social"  width="72px" height="28px">](https://www.linkedin.com/in/joyal-raphel-588760191/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/joyaldev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joyaldev" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
 
+ 
+ 
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+ <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+ 
+ </a>
+ <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a>
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+ 
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  
+ 
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+ 
+ </a> 
+ 
 
-**🐱 My GitHub Data** 
-
-> 📦 254.3 kB Used in GitHub's Storage 
- > 
-> 🏆 281 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 30 Public Repositories 
- > 
-> 🔑 19 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                96 commits          █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-🌆 Daytime                158 commits         ████████░░░░░░░░░░░░░░░░░   33.40 % 
-🌃 Evening                179 commits         █████████░░░░░░░░░░░░░░░░   37.84 % 
-🌙 Night                  40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Tuesday                  73 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Wednesday                40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Thursday                 83 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Friday                   62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Saturday                 106 commits         ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-Sunday                   66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-```
+ 
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+ 
+ <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+ 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  
 
 
+ </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joyal007&show_icons=true&locale=en&layout=compact" alt="joyal007" /></p>
 
- Last Updated on 31/08/2023 18:38:28 UTC
-<!--END_SECTION:waka-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joyal007&show_icons=true&locale=en" alt="joyal007" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joyal007&" alt="joyal007" /></p>
